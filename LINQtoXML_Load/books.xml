@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <book>
+    <title>Учебник по C#</title>
+    <author>Рихтер</author>
+    <year>2014</year>
+  </book>
+  <book>
+    <title>Война и мир</title>
+    <author>Толстой</author>
+  </book>
+  <book>
+    <title>Как заработать миллион</title>
+    <author>Иван Скоробогатов</author>
+    <year>2021</year>
+  </book>
+</books>
